@@ -34,7 +34,7 @@ body {
     font-family: "Montserrat", "sans-serif";
     line-height: 1.7;
     color: var(--color-white);
-    background: var(--color-bg);
+    background: var(--color-success);
 }
 
 .container {
@@ -180,7 +180,7 @@ height:32rem;
 }
 .categories h1 {
 line-height: 1;
-margin-bottom: 3em;
+margin-bottom: 3rem;
 }
 .categories__container {
 display: grid;
